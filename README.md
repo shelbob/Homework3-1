@@ -7,6 +7,6 @@ What are the three most important tools/strategies you use for organizing your w
 
 Greg Carter
 
-Software Engineering\n
+Software Engineering
 Working on updating/re-modeling software for internal uses.
 IntelliJ/STS, Cygwin, VSCode
