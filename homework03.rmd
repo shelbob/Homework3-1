@@ -18,10 +18,25 @@ the number of successful pull requests you made, and the github repository to wh
 the number of pull requests you accepted, and the github repository from which you accepted.  
 
 Greg Carter: https://github.com/GregCart2/Homework3-1
+- number of successful pull requests made: 
+-   github repository to which a change was requested: 
+- number of pull requests accepted: 
+-   the github repository from which you accepted: 
 Shelby Nechkash: https://github.com/shelbob/Homework3-1
+- number of successful pull requests made: 
+-   github repository to which a change was requested: 
+- number of pull requests accepted: 
+-   the github repository from which you accepted: 
 Seana Perkins: https://github.com/seanalperkins/Homework3
+- number of successful pull requests made: 
+-   github repository to which a change was requested: 
+- number of pull requests accepted: 
+-   the github repository from which you accepted: 
 
     c. Write down a list with at least 3 tips of how to make working with git/github easier  
+1. Have clear repository names so it's easy to get to the file(s) you need
+2. Make notes of descriptions of overall changes being made
+3. 
 
 2. Generate the graph of LifExp vs. gdpPercap for US, Canada (fixed data) and Australia by RMarkdown based on the data set "gapminder-5060", like what we did in the class.  
 Please use Github to collaborate on this problem. For example, one member can create the plot of US in his/her repository. The other member will fork this repository, add the result for the second country, and make a pull request for merging into the main repository. Each member should at least analyze one country and make at least one pull request. **Please submit the RMarkdown file, the output file, and the screen shot of the successful pull request and the merge.**
